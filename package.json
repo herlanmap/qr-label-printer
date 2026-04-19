@@ -70,7 +70,8 @@
         }
       ],
       "icon": "public/icon.png",
-      "signAndEditExecutable": false
+      "signAndEditExecutable": false,
+      "artifactName": "${productName}.${ext}"
     },
     "nsis": {
       "oneClick": false,
